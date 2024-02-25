@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proxy", "..\Networking\Sockets\Sockets.vcxproj", "{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}.Debug|x64.ActiveCfg = Debug|x64
+		{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}.Debug|x64.Build.0 = Debug|x64
+		{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}.Debug|x86.Build.0 = Debug|Win32
+		{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}.Release|x64.ActiveCfg = Release|x64
+		{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}.Release|x64.Build.0 = Release|x64
+		{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}.Release|x86.ActiveCfg = Release|Win32
+		{BB2E71A2-1725-4B4F-BFC2-89078FF4838E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF451641-11D5-4408-BAF3-F4D09DF6465F}
+	EndGlobalSection
+EndGlobal
